@@ -110,6 +110,6 @@ public class pattern{
 		noreversepattern(5);
 		pyramid(5);
 		invpyramid(5);
-		completepyramid(5);
+		completepyramid(9);
     }
 }
