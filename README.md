@@ -1,2 +1,3 @@
-#this is java files
-with me 
+# this is java files
+<br >
+contains pattern with striver bhaiya
