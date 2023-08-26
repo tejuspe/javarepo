@@ -111,5 +111,7 @@ public class pattern{
 		pyramid(5);
 		invpyramid(5);
 		completepyramid(9);
+		completepyramid(7);
+
     }
 }
